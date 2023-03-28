@@ -14,7 +14,7 @@ You can see a live demo of the Stripe navigation bar clone [here](https://pascal
 
 React
 values.js
-Installation and Setup
+## Installation and Setup
 To install and run the app on your local machine, please follow these steps:
 
 Clone the repository: git clone https://github.com/pascal-tech1/color-generator.git
