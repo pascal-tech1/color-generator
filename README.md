@@ -8,7 +8,7 @@ The app consists of two components: App.js and SingleColor.js. The App.js compon
 
 ![site preview](colorGenerator.jpg)
 
-You can see a live demo of the Stripe navigation bar clone [here](https://pascalprojects-color-generator.netlify.app).
+You can see a live demo of the the app at [here](https://pascalprojects-color-generator.netlify.app).
 
 ## Technologies Used
 
